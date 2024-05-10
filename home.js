@@ -16,7 +16,7 @@ const {
     backToMenuHandler
 } = require('./controllers/action.js');
 
-const bot = new Telegraf('6748810084:AAGqdhavK-E6Dvw4mIpI_RfIZPT1W8X9i_I');
+const bot = new Telegraf('your telegram token bot');
 
 bot.use((ctx, next) => {
     const rilz = ctx.message;
