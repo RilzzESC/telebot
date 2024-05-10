@@ -7,7 +7,7 @@
     "start": "nodemon home.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "RilzzESC",
   "license": "ISC",
   "dependencies": {
     "nodemon": "^3.1.0"
